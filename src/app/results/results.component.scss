@@ -1,0 +1,25 @@
+table{
+    width: 95%;
+}
+div{
+    width: 65%;
+    float: right;
+}
+th, td{
+    border-top: 1px solid #96949445;
+    padding: 10px 5px;
+}
+th{
+    text-align: left;
+    background: #96949445;
+}
+td{
+    text-align: right;
+}
+button{
+    background: #2196f3;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white;
+}
